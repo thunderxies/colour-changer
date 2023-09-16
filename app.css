@@ -1,0 +1,16 @@
+button {
+    text-align: center;
+    justify-items: auto;
+    margin: auto;
+    width: 10%;
+    border: 6px solid green;
+    padding: 30px;
+    position: absolute;
+    top: 10%;
+}
+
+h1 {
+    background-color: blueviolet;
+    justify-items: auto;
+    text-align: center;
+}
